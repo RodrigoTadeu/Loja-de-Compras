@@ -1,0 +1,44 @@
+.title {
+    text-align: center;
+    margin: 30px 0 50px;
+    color: rgb(134, 134, 134);
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 1600px;
+    margin: 0 auto;
+   
+}
+
+.chield {
+    width: 33%;
+    align-items: center;
+    margin: 15px 2px;
+    
+    
+}
+
+.img, .button {
+    margin-left: 50%;
+    transform: translate(-50%,0);
+    
+}
+
+.name, .price {
+    text-align: center;
+    margin: 5px 0;
+}
+
+.button {
+    background: rgb(87, 209, 38);
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    padding: 6px;
+    cursor: pointer;
+
+
+}

@@ -1,0 +1,53 @@
+* {
+    background: black;
+    color: yellow;
+}
+
+.container2 {
+    width: 1500px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap ;
+}
+
+.imagem {
+    width: 40%;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+
+.a {
+    
+    margin: 120px auto;
+}  
+
+.produto {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.valor {
+    text-align: center;
+    margin-top: 20%;
+    
+}
+
+.info {
+    margin-left: 10%;
+    
+}
+
+.b {
+    font-size: 20px ;
+}
+
+.c {
+    display: inline;
+}
+
+.label-valor {
+    display: inline;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
